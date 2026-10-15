@@ -46,7 +46,7 @@ Rewrite Block 6 using [Unsloth](https://github.com/unslothai/unsloth) for **2-5Ã
 ## Phase 4: Improvements (Week 2-3)
 
 ### Week 2
-
+ 
 #### Day 1-2: Benchmark Evaluation Suite (Priority 0 â€” do this FIRST)
 - Build test set of **50 contracts** with known vulnerabilities
 - Measure **precision** (are findings real?) and **recall** (did it catch all bugs?)
