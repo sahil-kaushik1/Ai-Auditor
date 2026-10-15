@@ -61,7 +61,7 @@ Rewrite Block 6 using [Unsloth](https://github.com/unslothai/unsloth) for **2-5Ã
 - Expected: **30-50% fewer false positives**
 
 #### Day 5-6: RAG Integration (Priority 2)
-- **ChromaDB** vector database of past audit reports (Solodit, Code4rena)
+- **ChromaDB** vector database of past audit reports (Solodit, Code4rena) 
 - At inference: retrieve **top-5 similar past exploits** as context
 - Keeps model current with new vulnerability patterns without retraining
 - Better accuracy on novel/unseen protocol types
