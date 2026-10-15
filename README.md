@@ -6,7 +6,7 @@ Complete fine-tuning pipeline for Qwen2.5-Coder-7B on smart contract security da
  
 ## Phase 1: Data Pipeline (✅ Complete) 
  
-| Block | Status | What it does                                                                 | 
+| Block | Status | What it does                                                                 |  
 | ----- | ------ | ----------------------------------------------------------------------------  |
 | **1** | ✅      | Environment setup & `pip install`                                            |  
 | **2** | ✅      | Imports & CONFIG dict                                                        | 
