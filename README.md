@@ -69,7 +69,7 @@ Rewrite Block 6 using [Unsloth](https://github.com/unslothai/unsloth) for **2-5Ã
 #### Day 7: Confidence Scoring & Severity Calibration 
 - Model outputs **confidence %** per finding
 - Filter low-confidence findings to reduce noise
-- Calibrate severity ratings against real audit distributions
+- Calibrate severity ratings against real audit distributions 
 - Prevent over-reporting "Critical" for minor issues
 
 ### Week 3
