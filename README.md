@@ -66,7 +66,7 @@ Rewrite Block 6 using [Unsloth](https://github.com/unslothai/unsloth) for **2-5Ã
 - Keeps model current with new vulnerability patterns without retraining
 - Better accuracy on novel/unseen protocol types
 
-#### Day 7: Confidence Scoring & Severity Calibration
+#### Day 7: Confidence Scoring & Severity Calibration 
 - Model outputs **confidence %** per finding
 - Filter low-confidence findings to reduce noise
 - Calibrate severity ratings against real audit distributions
