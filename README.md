@@ -51,7 +51,7 @@ Rewrite Block 6 using [Unsloth](https://github.com/unslothai/unsloth) for **2-5�
 - Build test set of **50 contracts** with known vulnerabilities
 - Measure **precision** (are findings real?) and **recall** (did it catch all bugs?)
 - Automate scoring so every improvement can be measured
-- Categories: reentrancy, access control, oracle, flash loan, arithmetic, logic
+- Categories: reentrancy, access control, oracle, flash loan, arithmetic, logic 
 
 #### Day 3-4: Multi-Agent Inference (Priority 1)
 - Split inference into **3 passes**: Scanner → Verifier → Reporter
