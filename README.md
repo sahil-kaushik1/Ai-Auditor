@@ -14,7 +14,7 @@ Complete fine-tuning pipeline for Qwen2.5-Coder-7B on smart contract security da
 | **4** | ✅      | Quality scoring (0-100), dedup, filtering                                    |
 | **5** | ✅      | ChatML formatting, train/eval split, HF Dataset                              |
 
-## Phase 2: Training & Export (✅ Complete) 
+## Phase 2: Training & Export (✅ Complete)  
 
 | Block | Status | What it does                                                |
 | ----- | ------ | ----------------------------------------------------------- |
