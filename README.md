@@ -10,7 +10,7 @@ Complete fine-tuning pipeline for Qwen2.5-Coder-7B on smart contract security da
 | ----- | ------ | ---------------------------------------------------------------------------- |
 | **1** | ✅      | Environment setup & `pip install`                                            | 
 | **2** | ✅      | Imports & CONFIG dict                                                        | 
-| **3** | ✅      | Dataset collection: Solodit, SmartBugs, VulnDB, DISL, EVuLLM → 130K examples |
+| **3** | ✅      | Dataset collection: Solodit, SmartBugs, VulnDB, DISL, EVuLLM → 130K examples | 
 | **4** | ✅      | Quality scoring (0-100), dedup, filtering                                    |
 | **5** | ✅      | ChatML formatting, train/eval split, HF Dataset                              |
 
