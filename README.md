@@ -40,7 +40,7 @@ Rewrite Block 6 using [Unsloth](https://github.com/unslothai/unsloth) for **2-5Ã
 - Replace `AutoModelForCausalLM` + `BitsAndBytesConfig` + `get_peft_model` â†’ `FastLanguageModel`
 - Remove manual quantization config (Unsloth handles it)
 - Increase `max_seq_length` to 1024, `max_steps` to 5000
-
+ 
 ---
 
 ## Phase 4: Improvements (Week 2-3)
